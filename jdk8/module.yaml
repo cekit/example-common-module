@@ -1,0 +1,9 @@
+schema_version: 1
+
+name: jdk8
+version: 1.0
+description: Module installing OpenJDK 8
+
+packages:
+  install:
+    - java-1.8.0-openjdk-devel
